@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>this is grwpt index page</title>
+</head>
+
+<body>
+<h1>GRWPT SHIVAMOGGA</h2>
+<p>
+this is GRWPT shivamogga, one of the best college.
+shivamogga's best college..
+</p>
+</body>
+
+</html>
